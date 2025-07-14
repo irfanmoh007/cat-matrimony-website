@@ -1,7 +1,25 @@
-# Tincat Project
+# 🐾 Cat-Matrimony (by me)
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tincat/blob/main/Bootstrap-snippets.pdf
+Welcome to **Cat-Matrimony**, a fun and interactive Bootstrap-powered web app that helps cats find their perfect match! 😺💘
+
+## 🚀 Project Overview
+
+This project is a playful and responsive **cat dating website** made using:
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5.3**
+- Custom gradient styles and responsive design.
+
+It includes:
+- A hero section with call-to-action buttons.
+- Feature highlights with SVG icons.
+- Testimonials from satisfied cats 😹.
+- Press mentions (TechCrunch, TNW, Mashable, Business Insider).
+- Pricing plans: *Indian*, *Arabian*, and *Persian* packages.
+  
+
+
+
 
 ## SVGs:
 
